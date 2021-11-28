@@ -1,5 +1,6 @@
 # Camping-Buddy
-This is a website made to search for camping grounds all over India.
+This is a website made to search for camping grounds all over India.It is made with lot of efforts.
+
 
 *Features*
 - Renting Camping Equipments.
